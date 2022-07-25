@@ -1,2 +1,3 @@
-# arkology
-A system for mapping and exploring connected concepts
+# Arkology
+
+A playground for mapping and exploring connected concepts
